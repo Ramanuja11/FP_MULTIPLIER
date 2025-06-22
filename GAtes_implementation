@@ -1,0 +1,16 @@
+     Type      Instances    Area   Area % 
+------------------------------------------
+inverter             293  9062.400   14.4 
+buffer                91  3929.600    6.2 
+logic               1065 49955.841   79.4 
+physical_cells         0     0.000    0.0 
+------------------------------------------
+total               1449 62947.841  100.0
+
+Gate       Instances    Area      Library  
+----------------------------------------------
+ADDFX1    (m)         2     37.120    tsmc_25 
+ADDFX2    (m)         8    209.920    tsmc_25 
+ADDFX4    (m)        45   1728.000    tsmc_25 
+ADDHX2                3    403.200    tsmc_25 
+....... till end for 1449 gates
